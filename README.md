@@ -5,3 +5,4 @@ The development of facial recognition system was followed by a tutorial video, b
 ### Installation
 Use package manager pip3 to install
 * openpyxl for accessing excel
+* opencv-python for haar cascade
